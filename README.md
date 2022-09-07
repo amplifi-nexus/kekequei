@@ -1,2 +1,2 @@
-# WeDAO
-WeDAO 
+# WeCollecive
+WeCollective
